@@ -1,1 +1,3 @@
-foo: 你好阳光1
+cloud: 
+  config: 
+    name: 你好阳光
