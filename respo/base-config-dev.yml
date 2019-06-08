@@ -1,4 +1,4 @@
 spring:
   zipkin:
     base-url: http://localhost:9411
-base-name: summer1
+base-name: summer2
